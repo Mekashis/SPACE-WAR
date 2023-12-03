@@ -4,59 +4,30 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
-    public GameObject enemy;
-    float maxSpawn = 5f;
+    public GameObject enemyPrefab;
+    public float spawnInterval = 2f; 
+    private float timeSinceLastSpawn;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        Invoke("SpawnEnemy", maxSpawn);
-
-        InvokeRepeating("Increase", 0f, 30f);
-    }
-
-    // Update is called once per frame
+    
     void Update()
     {
+        timeSinceLastSpawn += Time.deltaTime;
 
+        if (timeSinceLastSpawn >= spawnInterval)
+        {
+            SpawnEnemy();
+            timeSinceLastSpawn = 0f;
+        }
     }
 
     void SpawnEnemy()
     {
-        Vector2 min = Camera.main.ViewportToWorldPoint(new Vector2(0, 0));
-        Vector2 max = Camera.main.ViewportToWorldPoint(new Vector2(1, 1));
+        Vector2 spawnPosition = new Vector2(Random.Range(minX, maxX), maxY);
 
-        GameObject spawnedEnemy = Instantiate(enemy);
-        spawnedEnemy.transform.position = new Vector2(Random.Range(min.x, max.x), max.y);
-
-        Invoke("SpawnEnemy", maxSpawn); 
-
-        NextEnemySpawn();
+        Instantiate(enemyPrefab, spawnPosition, Quaternion.identity);
     }
 
-    void NextEnemySpawn()
-    {
-        float spawn;
-        
-        if(maxSpawn > 1f)
-        {
-            spawn = Random.Range(1f, maxSpawn);
-        }
-        else
-            spawn = 1f;
-        Invoke("SpawnEnemy", spawn);
-     
-    }
-
-    void Increase()
-    {
-        if(maxSpawn > 1f)
-        {
-            maxSpawn--;;
-        }
-        if(maxSpawn == 1f)
-        {
-            CancelInvoke("Increase");
-        }
-    }
+    float minX = -5f; 
+    float maxX = 5f;  
+    float maxY = 7f;  
 }

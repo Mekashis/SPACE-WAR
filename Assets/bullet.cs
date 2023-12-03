@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class bullet : MonoBehaviour
 {
-
+    public GameObject Explosion;
     float speed;
 
     // Start is called before the first frame update
@@ -29,4 +29,21 @@ public class bullet : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if((col.tag == "Enemy") || (col.tag == "ast"))
+        {
+            PExplosion();
+            Destroy(gameObject);
+        }
+    }
+
+    void PExplosion()
+    {
+        GameObject explosion = (GameObject)Instantiate(Explosion);
+
+        explosion.transform.position = transform.position;
+    }
+
 }

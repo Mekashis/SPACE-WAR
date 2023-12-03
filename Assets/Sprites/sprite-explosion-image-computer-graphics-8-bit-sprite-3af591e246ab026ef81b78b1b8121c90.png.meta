@@ -1,0 +1,3035 @@
+fileFormatVersion: 2
+guid: 67a7666da65398946b9f07e3e5112028
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 572
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac3b89d6f4b3a4196b807348291888
+      internalID: 689338155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 565
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eec6814c4d1a549b2bcec950749ca8
+      internalID: 459277464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 558
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22febedaebeec148928acd9f69cdcbf
+      internalID: -707968149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 552
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ded049f1fe92d4d810f8629a868a42
+      internalID: -1422846418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 546
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b7116c6569d5b4385add6b29df2111
+      internalID: 1204679305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 408
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5001bb89d8797214eafa094b497fed56
+      internalID: 80672094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 405
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784a4adccf4a524abdef82b46cca5a9
+      internalID: -589833834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 499
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24a784685f85f42bf0074163dfb8f2
+      internalID: -537122026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 403
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cedad50d9dd62449632c8cf11dc653
+      internalID: 613248560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 400
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b1f04971093d4ab45ff1aa2ec5b17
+      internalID: -1171261840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 412
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202abd66b4c2d634ca781fc492d7389f
+      internalID: 819460564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 443
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e012f995007a432449b44fc9d22311c6
+      internalID: -1252948593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 442
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b9ba0ec8bf17b4eb34a834deed64a1
+      internalID: 460822001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 441
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c03753ca2dfcc4eafd8c084043668d
+      internalID: -2078916481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 158
+        width: 111
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50f450058c25d34c9368fb927896979
+      internalID: -243689340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 362
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f8b967142567b409733e8c72018f6b
+      internalID: 939264766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 145
+        width: 124
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d7108b1775c3e4d87eedd9437c7b9f
+      internalID: -859829165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 366
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5795db2d207029246ab9ea8a491ef463
+      internalID: -1445567447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 130
+        width: 121
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf81bec8070b440844aa6a9ae4e578
+      internalID: -795208893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 369
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26958c625d6056d448528ebb3a86ddd2
+      internalID: -508478952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 130
+        width: 131
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd19f3be11fac0940bf8ffcbe8af3415
+      internalID: -698331877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 370
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54efb38fb030642bb493a029841594
+      internalID: 155769218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 365
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4944a70ca6bf438b8a6a25bad613f
+      internalID: -1632257935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_23
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 368
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cad6f4fa49d30a459620e563852cb8c
+      internalID: 658740846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_24
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 363
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49ad943dc7234a49ac225d4d8ea5cb0
+      internalID: 2054703258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_25
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 370
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f9972847457741bf9d0b66fa93844
+      internalID: 1919967503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_26
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 357
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf7e8dd8fe937408e1685d843afa92
+      internalID: 1877034660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a795ebcae60a468fd62972e980d24
+      internalID: 959381828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 263
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b102feac9e954db8e775c1ae9c83e
+      internalID: -516828926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_29
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a35c22aaf72cb747961fdcf774d4aaa
+      internalID: 1181574912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 344
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c0558134d42440998f535d54e187d
+      internalID: 830933267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 345
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb600bec270f17408ab226c667f13d7
+      internalID: 965151829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 331
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854b0fe2e815d24cafbc3c376d03c2c
+      internalID: 816233283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 346
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18128aa7c07fab54ab097489b758c85a
+      internalID: -1412538064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_34
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 350
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40d334b74760a541bc1ed4b12f87268
+      internalID: -1799928815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 341
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6c372724e0a04f80618f59c230616
+      internalID: 245594328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 337
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab7f51707e1cb4f8b0fb0a774c6176
+      internalID: -700374801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 334
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25810a0ab49903f428f2e33352826d10
+      internalID: -970198650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 337
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b62f657ae279438e6c276ea4b3edf
+      internalID: 773402795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 335
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b7bc27c21eb44a95f7ed6afe58bc4
+      internalID: 645635185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_40
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 337
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eea5de0e4e5e94e8359e9c4955e63e
+      internalID: 1448895368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 335
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b826b7698be748944e3ba33d14c8b
+      internalID: -1385217323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_42
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 338
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7adbab00f2a3045857fed94a210c01
+      internalID: -1400587757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_43
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 335
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40892f2898ad964a82aadd03bbd10ef
+      internalID: -211772574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 330
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2fc36ef3ba62a449adc57fca789e73
+      internalID: -2057866257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 331
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df3e60cf7f7d2d479f1386921d6b1ad
+      internalID: -477339163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_46
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23693631d8265042979f70ee0ef6df7
+      internalID: 1882235820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_47
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9552d4644702b44bf96a751ae3f976
+      internalID: -66731719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_48
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 331
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77706f3c390560b479fcb0c06409c969
+      internalID: 2072405541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_49
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 318
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1237149d8bb98334db5b59d923b3a5c9
+      internalID: 409468046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_50
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 318
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a0d39c0a943e141a43c7e936f0386c
+      internalID: -527099490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 307
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e90049bf24178241a0c02f8cb772778
+      internalID: -1841263011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 302
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f006fbf759dec24cb26abda6a4bc8bf
+      internalID: 1797193639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_53
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 313
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28668981ae959ac47afa1bcbefcabdac
+      internalID: 1483731797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_54
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 289
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f618348ad3b77d44ad97f43f3b5538f
+      internalID: 668283180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 312
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6781e7db8ea7fdd46adb8a6728caf1bd
+      internalID: 1026052314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 303
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5820c5df6e9c246a9293f740f254ee
+      internalID: -1661560095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 302
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92473f59ba9a402429b78b5485c98b45
+      internalID: 1324105852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb167eeee12489e41a6504178efdd752
+      internalID: 462786720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 302
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e53edc206997439e9c488f5226fa3
+      internalID: 1210864648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_60
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 306
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259ac56cf4773f44b89364351a97258
+      internalID: 283203481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_61
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 301
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69359b96c0c3468438cd55bd451d8b64
+      internalID: -257422591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_62
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 300
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1df7e617c4644ea8b66f159a134b1
+      internalID: -744151211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 296
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90be50de8991bd41bbb9dbeb8616881
+      internalID: 1849195918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_64
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f82a990be4b0774f945a2a903970981
+      internalID: -1718039097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_65
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 297
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ee6142087d8642a72780386d7adb6
+      internalID: 437984810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7966ac81387c98c4a8d877b1275a0fdf
+      internalID: 388771944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_67
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 291
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa328f630d98340458c0aecf730bbd1c
+      internalID: 1874208180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_68
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 287
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130466e9777c212468a9c43b223dabe2
+      internalID: -1461647466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_69
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41b1f8fc06126e4987b980e0a68d990
+      internalID: 2009929061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed794ade427d241809bdad4814e0f5
+      internalID: -478862486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_71
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 285
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1894358fe6a7f40b4ea38dd02173e9
+      internalID: -1286284575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 279
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0841c25f4ad6b34b89c278a2d8262b2
+      internalID: 1512745245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_73
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 281
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f9c492fbcd3f4481e156c9531fdb6
+      internalID: 531112711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_74
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 284
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3e7534203c44409cd2c57eb578c52
+      internalID: 434154925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_75
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 278
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2977981482190d14e920c59c9d4786f4
+      internalID: 606137133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 280
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305d12dd46db06b41985a6d273928280
+      internalID: 1788639817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 276
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c36095deca443c47b714829486fd099
+      internalID: 714487252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10e2aed655769c44b95b81bacbab1c1
+      internalID: 1443574084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_79
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 274
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c430a955d0854789b88793b28771f
+      internalID: -1227277470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b95c856e4cae4d90284882df8f6ef
+      internalID: 1839253894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 272
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b0c9b896308c47b3f50a6176b0976
+      internalID: -1064803320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_82
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 271
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c663ac5d2b89836469681d00a5fd9a58
+      internalID: 1322008122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 268
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297bbf467fdd6e14a9815e594a42e271
+      internalID: -973898845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 267
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ddf8599e8c714bac355c2e3db5d6a
+      internalID: -1187386642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_85
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 265
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b29f144afeb4c4cb37eca0e4fa927a
+      internalID: 956152548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 264
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b3265071a72e0488e311cdab929d93
+      internalID: -1104024704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b295b57e933d49499dee7ff37df5ad3
+      internalID: 1233522314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 234
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab44cd990fd2148a8814ad6921f98a
+      internalID: -567712772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e097dfe2d30ab44b906df97201797a1
+      internalID: 342243136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_90
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa29b089ab9db4a804705ed5fca77f
+      internalID: 396296973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_91
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 235
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0db62dba0a2cd45844a59ee1aaf0b7
+      internalID: -2072858026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_92
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 229
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ffbb4a0f371cd4fbbb70b6a517c9a8
+      internalID: 1758637702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_93
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 130
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0928f632ca1b26488ca04b05201e2e7
+      internalID: -164798364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 89
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6db9fc9d189f14e94777b51ae76c87
+      internalID: -1209309354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_95
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce42d3466228cea4e91492e58d913de6
+      internalID: 303982788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_96
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 132
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aca59be11a6790408eb31f366a837c0
+      internalID: -900567652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 231
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff2a297b40b2f4da4552a4c76b4adc
+      internalID: 1331069881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_98
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 228
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31afc079efdc94c909e44c2a6b93c3
+      internalID: 982461498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_99
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 228
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfdc5c6e99b30d458a451321c7f7145
+      internalID: 325014799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_100
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 216
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1538088a264692b44b6b3be7fda74416
+      internalID: -530319548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_101
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2623d6c4cd05367428edd870c85cf3e1
+      internalID: -1955366416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_102
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 216
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e25ad1f915ee5f4f9885ecb25df1728
+      internalID: 1730900297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 218
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a961bf412c7b5b7498a098cdfde2c640
+      internalID: 973975002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_104
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 216
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a70e1cfc22484d989a2f9552c4d96
+      internalID: -474646732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_105
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 170
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926775261335e24fb2f7080a89011c5
+      internalID: -2100789085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_106
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 170
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5e562a2c23e8e45be6299eb0c057d8
+      internalID: 870740981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_107
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 218
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7881af5e8520c374bb1bc8e45228719a
+      internalID: -2021136567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d23ba1868e4be4691e1905ac4a3a65
+      internalID: -2068101041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_109
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e9033df50c0eb4685578c5c5342c51
+      internalID: 394108948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_110
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 208
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f874609090f68b458d847a4804d16d9
+      internalID: 1555981248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_111
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 208
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53c4d3c92578e4b824d28333340e75
+      internalID: -1677945378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_112
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 199
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c5635ca13d9c24fae958910c754b63
+      internalID: -1148714564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_113
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 201
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6855635e2035cc4595b6fca48848bd7
+      internalID: -546631827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_114
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 182
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71aafadcaf76f547ba7ca5f9a92c6c3
+      internalID: 1900237479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_115
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a766c530fc704192e1bd6cc3ec966
+      internalID: 1964121353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 159
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d481bac92c89dc428752de61d876c07
+      internalID: 274699824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_117
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 159
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6514b3a94f7c5b14cbee4f6b0bfc4598
+      internalID: 99509046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 146
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c89966b185e84697b090f0ac3cb3f
+      internalID: 736300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_119
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 148
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa999ff06ae6e31438ccaed036779b94
+      internalID: -1252929159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_120
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eeae655ae39af41ae5c21e26c3dede
+      internalID: 478914842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_121
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 150
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e289c0e8e4db4a9ed9be2cf653e5c
+      internalID: 1637285031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_122
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 148
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92cd54016d10934bb5016e7c4b7db05
+      internalID: -622090420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_123
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 141
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7daf8987ef7e94e838af59c611f1b6
+      internalID: -1917391447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_124
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 140
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8a374790dc6b46b8d786a5920acd2
+      internalID: -2066549862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_125
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 140
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ea7c0df14629488edcd36a2de424d
+      internalID: 1011660178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_126
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 139
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be9b8dc7a66c546937f931c7f7026c
+      internalID: -1690770841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc6e91d79376874ea45f8ef10ca215c
+      internalID: -504019935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_128
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2e94c361a794643b992739548dffb3
+      internalID: 1777440618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 8
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270fbd2f2e508842b21fb937a3c68f3
+      internalID: 1957956134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_130
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 9
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0868833be74f49488a7defa2a42a682
+      internalID: 840538248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_0: 689338155
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_1: 459277464
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_10: 819460564
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_100: -530319548
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_101: -1955366416
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_102: 1730900297
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_103: 973975002
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_104: -474646732
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_105: -2100789085
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_106: 870740981
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_107: -2021136567
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_108: -2068101041
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_109: 394108948
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_11: -1252948593
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_110: 1555981248
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_111: -1677945378
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_112: -1148714564
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_113: -546631827
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_114: 1900237479
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_115: 1964121353
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_116: 274699824
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_117: 99509046
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_118: 736300058
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_119: -1252929159
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_12: 460822001
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_120: 478914842
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_121: 1637285031
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_122: -622090420
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_123: -1917391447
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_124: -2066549862
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_125: 1011660178
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_126: -1690770841
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_127: -504019935
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_128: 1777440618
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_129: 1957956134
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_13: -2078916481
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_130: 840538248
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_14: -243689340
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_15: 939264766
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_16: -859829165
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_17: -1445567447
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_18: -795208893
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_19: -508478952
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_2: -707968149
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_20: -698331877
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_21: 155769218
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_22: -1632257935
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_23: 658740846
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_24: 2054703258
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_25: 1919967503
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_26: 1877034660
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_27: 959381828
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_28: -516828926
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_29: 1181574912
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_3: -1422846418
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_30: 830933267
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_31: 965151829
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_32: 816233283
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_33: -1412538064
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_34: -1799928815
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_35: 245594328
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_36: -700374801
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_37: -970198650
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_38: 773402795
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_39: 645635185
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_4: 1204679305
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_40: 1448895368
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_41: -1385217323
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_42: -1400587757
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_43: -211772574
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_44: -2057866257
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_45: -477339163
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_46: 1882235820
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_47: -66731719
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_48: 2072405541
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_49: 409468046
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_5: 80672094
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_50: -527099490
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_51: -1841263011
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_52: 1797193639
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_53: 1483731797
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_54: 668283180
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_55: 1026052314
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_56: -1661560095
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_57: 1324105852
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_58: 462786720
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_59: 1210864648
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_6: -589833834
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_60: 283203481
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_61: -257422591
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_62: -744151211
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_63: 1849195918
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_64: -1718039097
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_65: 437984810
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_66: 388771944
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_67: 1874208180
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_68: -1461647466
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_69: 2009929061
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_7: -537122026
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_70: -478862486
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_71: -1286284575
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_72: 1512745245
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_73: 531112711
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_74: 434154925
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_75: 606137133
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_76: 1788639817
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_77: 714487252
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_78: 1443574084
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_79: -1227277470
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_8: 613248560
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_80: 1839253894
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_81: -1064803320
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_82: 1322008122
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_83: -973898845
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_84: -1187386642
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_85: 956152548
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_86: -1104024704
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_87: 1233522314
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_88: -567712772
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_89: 342243136
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_9: -1171261840
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_90: 396296973
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_91: -2072858026
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_92: 1758637702
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_93: -164798364
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_94: -1209309354
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_95: 303982788
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_96: -900567652
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_97: 1331069881
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_98: 982461498
+      sprite-explosion-image-computer-graphics-8-bit-sprite-3af591e246ab026ef81b78b1b8121c90_99: 325014799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
